@@ -2,7 +2,7 @@
 
 This is a code to download the album data from Spotify and store it on a Notion Page as a table.
 
-![NotionIntroduction](C:\Users\Pinnzon\Desktop\SpoNotion\Img\Notion.png)
+![NotionIntroduction](https://github.com/pinnzonandres/SpotiNotion/blob/master/Img/Notion.PNG?raw=true)
 
 ## Required Packages
 
