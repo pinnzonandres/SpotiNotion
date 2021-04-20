@@ -23,7 +23,7 @@ Unofficial Python 3 client for Notion. I recommend go to [pypi](https://pypi.org
 
 Go to [spotify developer](https://developer.spotify.com/), go to dashboard, sign up and create and app, then get the client tokens.
 
-![SpotifyClients](C:\Users\Pinnzon\Desktop\SpoNotion\Img\SpoDeve.png)
+![SpotifyClients](https://github.com/pinnzonandres/SpotiNotion/blob/master/Img/SpoDeve.png?raw=true)
 
 Then add your tokens on the code
 ```
